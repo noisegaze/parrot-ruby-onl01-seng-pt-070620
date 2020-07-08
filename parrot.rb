@@ -4,4 +4,4 @@ def parrot(sound="Squawk")
   puts "Parrot goes #{sound}"
   "Parrot goes #{sound}"
 end 
-parrot
+parrot(sound)
